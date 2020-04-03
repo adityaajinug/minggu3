@@ -22,9 +22,6 @@
       do {
          if ($k==1){
             echo "$k = ";
-         }
-         else if ($k==0){
-            echo "$k = ";
          }else{
             echo "$k x ";
          }
